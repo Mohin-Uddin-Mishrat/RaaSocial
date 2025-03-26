@@ -13,4 +13,4 @@ HTML: Structure of the website
 
 CSS: Styling and responsiveness
 
-JavaScript: Interactivity and form handling
+JavaScript: Interactivity 
