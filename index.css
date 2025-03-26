@@ -218,13 +218,13 @@ textarea{
 .slider1{
     position: absolute;
     top: 38%;
-    right: 0px;
+    right: -30px;
 
 }
 .slider2{
     position: absolute;
     top: 38%;
-    left: 0px;
+    left: -30px;
 
 }
 /* media */
@@ -252,6 +252,12 @@ textarea{
     }
     .business{
         grid-template-columns: 1fr 1fr;
+    }
+    .slider1{
+        display: none;
+    }
+    .slider2{
+        display: none;
     }
 }
 
@@ -288,5 +294,11 @@ textarea{
     }
     .business{
         grid-template-columns: 1fr;
+    }
+    .slider1{
+        display: none;
+    }
+    .slider2{
+        display: none;
     }
 }
